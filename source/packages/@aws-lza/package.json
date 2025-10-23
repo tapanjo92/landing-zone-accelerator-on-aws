@@ -30,7 +30,7 @@
     "@aws-sdk/client-iam": "3.835.0",
     "@aws-sdk/client-sso-admin": "3.835.0",
     "@aws-sdk/client-kms": "3.835.0",
-    "@aws-sdk/client-ssm": "3.835.0",
+    "@aws-sdk/client-ssm": "3.901.0",
     "@aws-sdk/client-organizations": "3.835.0",
     "@aws-sdk/client-sts": "3.835.0",
     "@aws-sdk/util-retry": "3.374.0",
