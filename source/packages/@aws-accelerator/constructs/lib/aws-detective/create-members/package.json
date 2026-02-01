@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@aws-accelerator/utils": "^0.0.0",
-    "@aws-sdk/client-organizations": "3.835.0",
+    "@aws-sdk/client-organizations": "3.894.0",
     "@aws-sdk/client-detective": "3.835.0"
   },
   "devDependencies": {
