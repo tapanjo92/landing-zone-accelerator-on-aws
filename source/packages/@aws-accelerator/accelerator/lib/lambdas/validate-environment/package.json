@@ -25,7 +25,7 @@
     "@aws-sdk/client-cloudformation": "3.835.0",
     "@aws-sdk/client-dynamodb": "3.835.0",
     "@aws-sdk/client-ssm": "3.835.0",
-    "@aws-sdk/lib-dynamodb": "3.835.0",
+    "@aws-sdk/lib-dynamodb": "3.894.0",
     "@aws-sdk/client-organizations": "3.835.0",
     "@aws-sdk/client-service-catalog": "3.835.0"
   },
