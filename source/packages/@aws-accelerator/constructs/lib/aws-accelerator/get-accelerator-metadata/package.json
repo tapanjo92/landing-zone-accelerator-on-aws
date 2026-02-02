@@ -22,7 +22,7 @@
     "@aws-sdk/client-codecommit": "3.835.0",
     "@aws-sdk/client-codepipeline": "3.835.0",
     "@aws-sdk/client-s3": "3.835.0",
-    "@aws-sdk/client-sts": "3.835.0",
+    "@aws-sdk/client-sts": "3.894.0",
     "@aws-sdk/client-kms": "3.835.0",
     "@aws-sdk/client-ssm": "3.835.0",
     "@aws-sdk/client-organizations": "3.835.0"
