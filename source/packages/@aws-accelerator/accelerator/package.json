@@ -30,7 +30,7 @@
     "@aws-sdk/client-controltower": "3.835.0",
     "@aws-sdk/client-service-quotas": "3.835.0",
     "@aws-sdk/client-ssm": "3.835.0",
-    "@aws-sdk/client-sts": "3.835.0",
+    "@aws-sdk/client-sts": "3.894.0",
     "@aws-sdk/client-ec2": "3.835.0",
     "@types/js-yaml": "4.0.5",
     "change-case": "4.1.2",
