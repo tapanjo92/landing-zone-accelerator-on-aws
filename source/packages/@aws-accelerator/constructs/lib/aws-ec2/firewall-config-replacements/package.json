@@ -23,7 +23,7 @@
     "@aws-accelerator/utils": "^0.0.0",
     "@aws-sdk/client-ec2": "3.835.0",
     "@aws-sdk/client-s3": "3.835.0",
-    "@aws-sdk/client-sts": "3.835.0",
+    "@aws-sdk/client-sts": "3.894.0",
     "ip-num": "1.5.0"
   },
   "devDependencies": {
